@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Time Tracker</string>
+
+    <string name="main_menu_add">Add item</string>
+    <string name="list_empty">Add item</string>
+    <string name="title_activity_add_item">Add Item</string>
+
+    <string name="hint">Add a description</string>
+    <string name="add_item_save">Save item</string>
+    <string name="title_activity_details">Details </string>
+
+</resources>
